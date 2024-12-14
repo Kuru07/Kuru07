@@ -15,6 +15,7 @@ Engineering Student @SASTRA University
 <a href="https://instagram.com/iam_.lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_.lakshan" height="30" width="40" /></a>
 <a href="https://medium.com/@kumarakuru7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kumarakuru7007" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kumarakuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarakuru" height="30" width="40" /></a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kumarakuru7007@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="kumarakuru" height="40" width="40" /></a>
 </p>
 
 
@@ -31,7 +32,8 @@ Engineering Student @SASTRA University
 
 ![Kuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuru07&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuru07&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuru07&layout=compact&theme=dark)
 
+![Kuru's geekforgeeks stats](https://gfgstatscard.vercel.app/kumarakuru?theme=dark)
 
 [![Kuru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kuru07&bg_color=000000&color=ffffff&line=ffffff&point=0fff3f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
